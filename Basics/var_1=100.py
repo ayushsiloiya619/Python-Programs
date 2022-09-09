@@ -1,0 +1,10 @@
+var_1=100
+var_2=2.0
+print(var_1+var_2)
+print(type(var_2))
+print(type(var_1))
+print(var_1*var_2)
+var_3=0x34
+var_4=0x226
+print(var_3)
+print(var_4)
